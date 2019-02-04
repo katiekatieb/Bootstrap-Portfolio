@@ -7,7 +7,7 @@
 
 ## Technology
 * HTML%, CSS
-* Live demo: https://katiekatieb.github.io/Responsive-Portfolio/index.html
+* Live demo: https://katiekatieb.github.io/Bootstrap-Portfolio/index.html
 
 ## About
 * Bootstrap-Portfolio is a basic portfolio site using Bootstrap.
