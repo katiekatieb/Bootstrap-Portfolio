@@ -1,0 +1,58 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand{
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+header{
+}
+
+.nav-link{
+  text-transform: uppercase;
+  font-size: .8em;
+  letter-spacing: 3px;
+}
+
+.navbar-nav{
+  text-align: center;
+}
+
+.card-img-top{
+  overflow: hidden;
+}
+
+.card{
+  margin: 20px;
+  padding: 0px;
+  height: auto;
+}
+
+.card img{
+  margin: 0px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.content{
+}
+
+footer{
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+.about
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.about img{
+  margin: 0px 20px 20px 0px;
+}
