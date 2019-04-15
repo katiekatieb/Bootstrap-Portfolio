@@ -26,7 +26,7 @@ html {
 }
 
 .sidebar nav{
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .sidebar nav a{
@@ -34,10 +34,10 @@ html {
   font-size: .8em;
   letter-spacing: 1px;
   display: block;
-  padding: 15px 15px 3px 15px;
+  padding: 10px 10px 3px 10px;
   width: 100%;
   color: grey;
-  font-size: 1em;
+  font-size: 14px;
   font-weight: 400;
   border-top: 1px solid lightgrey;
 }
@@ -47,8 +47,9 @@ html {
 }
 
 .sidebar ul{
+  display: inline !important;
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .sidebar ul li{
@@ -58,7 +59,7 @@ html {
 
 .sidebar ul li a{
   color: grey;
-  font-size: 1.5em;
+  font-size: 12px;
   margin: 5px;
   display: inline;
 }
