@@ -1,4 +1,4 @@
-body{
+/* body{
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -159,4 +159,125 @@ h2{
   #five{
     height: 400px;
   }
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 50px;
+}
+
+.navbar{
+  background-color: white;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+.navbar-brand{
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.nav-link{
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+/* .about{
+  margin-top: 110px;
+} */
+
+h1{
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+h2{
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 1.25em;
+}
+
+h3{
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.about ul{
+  display: inline !important;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.about ul li{
+  list-style: none;
+  display: inline !important;
+}
+
+.about ul li a{
+  color: grey;
+  font-size: 1em;
+  margin-right: 5px;
+  display: inline;
+}
+
+p{
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.btn{
+  border-radius: 0px;
+  margin: 10px 10px 10px 0px;
+}
+
+/* .skills{
+  margin-top: 70px;
+}
+
+.exp{
+  margin-top: 70px;
+}
+
+.edu{
+  margin-top: 70px;
+}
+
+.portfolio{
+  margin-top: 70px;
+} */
+
+#about, #skills, #edu, #exp, #portfolio{
+  padding-top: 100px;
+}
+
+.card{
+  height: 100%;
+}
+
+.links{
+
+}
+
+.skills-border{
+  /* border-bottom: 1px solid rgba(0,0,0,.1); */
+  height: 100px;
+  /* margin-bottom: 20px; */
+}
+
+ul{
+  padding-inline-start: 0px;
+}
+
+ul li{
+  list-style: none;
+  font-size: 1em;
+  font-weight: 300;
 }
