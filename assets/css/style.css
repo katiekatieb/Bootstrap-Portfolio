@@ -199,6 +199,19 @@ h1{
   text-transform: uppercase;
 }
 
+.card img{
+  height: 175px;
+  object-fit: cover;
+}
+
+.card-link{
+  color: grey;
+}
+
+.card-link:hover{
+  color: black;
+}
+
 h2{
   font-weight: 400;
   letter-spacing: 1px;
